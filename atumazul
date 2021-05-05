@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html lang="pt">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=, initial-scale=1.0">
+		<title>Atum Azul</title>
+		<link rel="stylesheet" href="atum.css">
+		<link rel="icon" href="icon.png" type="image/png" sizes="16x16">
+	</head>
+	
+	<body>
+		<section>
+			<center>
+				<img src="oatum.jpeg" alt="Atum Azul" height="360" width="480" border="1">
+			</center>
+		</section>
+		<main>
+		<center>
+			
+			</center>
+			<h1> Atum Azul</h1>
+			<p>O atum azul é um dos maiores e mais rápidos peixes do mundo. Ele é encontrado em todo o Oceano Atlântico, bem como no Mediterrâneo e no Mar Negro. Além disso, é um peixe que pode viver até 40 anos, atingir tamanhos gigantescos.</p>
+			<p>O atum azul também é uma iguaria muito procurada para sushi e sashimi em várias partes do mundo, e sobretudo, na Ásia. Dessa forma, um único peixe já chegou a ser vendido por mais de 1 milhão de dólares. Impulsionados por preços tão altos, os pescadores usam técnicas ainda mais refinadas para capturar atum.</p>
+			<p>O atum azul do Atlântico é o maior membro da família Scombridae (que inclui as espécies albacoras, bonitos, cavalas, atuns). Eles são um dos maiores peixes ósseos e podem atingir comprimentos de até 3 metros, embora sejam mais comumente encontrados de 0,5 a 2 m de comprimento. O peso dos adultos varia de 136 a 680 kg. Ademais, eles podem mergulhar a uma profundidade de até 914 m, e são conhecidos por nadar longas distâncias, pois são uma espécie altamente migratória.</p>
+			<p>Como lido acima, o atum é uma parte importante do grande ecossistema marinho. Desse modo, numerosas espécies vulneráveis ​​viajam com cardumes de atum, incluindo tubarões, tartarugas e aves marinhas. Esses animais podem ser apanhados em operações de pesca, um desafio de conservação denominado captura acessória. Por este motivo, medidas foram tomadas no final do século 20 para evitar que um grande número de golfinhos fosse morto pelas redes usadas para capturar atum nos oceanos do mundo.</p>
+			<p>Como resultado, ambientalistas de todo o planeta emplacaram diversas campanhas para conscientizar sobre a pesca e consumo desse peixe. Por fim, os especialistas, acreditam que essa espécie não sobreviverá se algo não for feito para frear a captura e o consumo do atum azul.</p>
+			<br>
+			<center>
+			<br>
+			<br>
+				<img src="univali.png" alt="Logotipo Univali">
+			</center>	
+			
+		</main>	
+		
+	</body>
+	<footer>
+		<center>
+			
+			<p><b> Semana 04/05/2021, livre acesso ao código fonte.</b></p>
+		</center>
+	</footer>
+
+</html>
